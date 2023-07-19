@@ -1,0 +1,23 @@
+.caja {
+	width: 200px;
+	height: 200px;
+	background: rgba(215, 38, 61, .2);
+}
+
+.hola {
+	width: 200px;
+	height: 200px;
+	background: rgba(84%, 15%, 24%);
+}
+
+.cuadro {
+	width: 200px;
+	height: 200px;
+	background: #b5838d;
+}
+
+.color {
+	width: 200px;
+	height: 200px;
+	background: yellow;
+}
